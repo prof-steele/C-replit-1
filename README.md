@@ -9,4 +9,6 @@ Click the button to get from github.
 Enter the link copied from github.
 Click the button.
 
-It says that replit requires purchase of **cycles** to create a project from a github repo, but apparently that is not true for accounts designated as an educator.
+replit wants purchase of **cycles** to create a project from github repo, but
+apparently that is not true for accounts designated as an educator.
+
