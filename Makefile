@@ -6,7 +6,7 @@
 PROGRAM = main
 
 CC = clang
-override CFLAGS += -g -Wall -Wno-everything -pthread -lm -Wall -Wextra -pedantic -std=c99
+override CFLAGS += -g -Wall -pthread -lm -Wall -Wextra -pedantic -std=c99
 
 SRCS = $(shell find . -name '.ccls-cache' -type d -prune -o -type f -name '*.c' -print)
 HEADERS = $(shell find . -name '.ccls-cache' -type d -prune -o -type f -name '*.h' -print)

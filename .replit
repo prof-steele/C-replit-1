@@ -8,12 +8,12 @@
 #
 # notes on the .replit for C code 
 #
-# '-s' silences the build step
+# removed '-s' which silences the build step
 #
 # Because the goal is that students learn about the C development environment,
 # the hidden section is commented out.
 
-compile = ["make", "-s"]
+compile = ["make"]
 # enter executable name in run statement
 run = "./main WhoRU?" 
 entrypoint = "main.c"
