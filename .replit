@@ -1,9 +1,6 @@
 #
 # this was the original stuff
 #run = "cowsay Configure me!"
-#[nix]
-#channel = "stable-22_11"
-#
 
 #
 # notes on the .replit for C code 
@@ -80,3 +77,7 @@ pattern = "**/*.{c,h}"
 
 [languages.c.languageServer]
 start = "ccls"
+
+[nix]
+channel = "stable-22_11"
+# ?does nix need to be last?
