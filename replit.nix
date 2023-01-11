@@ -1,4 +1,6 @@
-# copied from C repl default template
+#
+# This was copied from the C replit default template
+#
 { pkgs }: {
 	deps = [
 		pkgs.clang_12
@@ -7,3 +9,4 @@
 		pkgs.gnumake
 	];
 }
+
