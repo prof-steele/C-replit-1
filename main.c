@@ -1,8 +1,6 @@
-// main.c
+//
+// TODO file comment block has file name, author, description.
 
-/// main : () -> int
-
-int main( void) {
-    return 0;
-}
+/// TODO function docstring has name, description, parameters,
+/// [pre-conditions, post-conditions, and] return info.
 

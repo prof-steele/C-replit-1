@@ -24,3 +24,7 @@ $(PROGRAM)-debug: $(SRCS) $(HEADERS)
 
 clean:
 	-rm -f $(PROGRAM) $(PROGRAM)-debug
+
+realclean: clean
+	-rm -fr $(PROGRAM).dSYM $(PROGRAM)-debug.dSYM
+

@@ -1,13 +1,15 @@
-# C-replit-1
+# C-replit-1 repo
 
-Public version of C-replit-0 because replit will not pull a private github repo.
+Public version of C-replit-0 has a stubbed main.c file.
 
-# Create replit project from github
+## To create a replit project from this github repo
 
 Click the button to create a replit project.
 Click the button to get from github.
 Enter the link copied from github.
-Click the button.
+Click the button to proceed.
+
+## Notes
 
 replit wants purchase of **cycles** to create a project from github repo, but
 apparently that is not true for accounts designated as an educator.
