@@ -20,7 +20,7 @@ $(PROGRAM): $(SRCS) $(HEADERS)
 	$(CC) $(CFLAGS) $(SRCS) -o "$@"
 
 $(PROGRAM)-debug: $(SRCS) $(HEADERS)
-	$(CC) $(CFLAGS) -O0 $(SRCS) -o "$@"
+	$(CC) $(CFLAGS) $(SRCS) -o "$@"
 
 clean:
 	-rm -f $(PROGRAM) $(PROGRAM)-debug
