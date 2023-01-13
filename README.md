@@ -1,8 +1,9 @@
 # C-replit-1 repo
 
 Public version of C-replit-0 has a stubbed main.c file.
+This has been updated to contain ./.lesson/ content for replit team projects.
 
-## To create a replit project from this github repo
+## [did not work] To create a replit project from this github repo
 
 Click the button to create a replit project.
 Click the button to get from github.

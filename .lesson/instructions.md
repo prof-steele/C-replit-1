@@ -19,6 +19,7 @@
   Note that the program prints a *newline* character after the '!'.
 
   - ./main
+
     Hello, world. Happy New Year!
 
   ## Steps
@@ -38,6 +39,7 @@
   ## Documentation
 
 File documentation uses either plain 'double-quote' or '/* ... */' format.
+File documentation should have the author's full name, course and section.
 Function and variable docstrings must come *before the code component*. 
 Below is an internal comment that will not be processed as documentation,
 and a docstring comment using 'triple-quote' format C comments.
